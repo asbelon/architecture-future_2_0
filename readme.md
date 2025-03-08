@@ -1,1 +1,1 @@
-architecture-future_2_0
+https://practicum.yandex.ru/learn/software-architect/courses/a12a97b7-f7d7-4fa6-be32-74c0288e743e/sprints/370414/topics/603c01d9-281a-4949-a158-518064df6f49/lessons/db078c45-7142-422d-b123-892430124c1c/
