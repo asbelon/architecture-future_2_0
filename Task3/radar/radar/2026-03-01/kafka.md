@@ -1,6 +1,6 @@
 ---
 title: "Apache Kafka"
-ring: adopt
+ring: trial
 quadrant: platforms-and-operations
 tags: [integrations]
 ---

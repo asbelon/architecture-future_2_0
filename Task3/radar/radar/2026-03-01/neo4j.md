@@ -1,6 +1,6 @@
 ---
 title: "Neo4J"
-ring: adopt
+ring: trial
 quadrant: tools
 tags: [data]
 ---
